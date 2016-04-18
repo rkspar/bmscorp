@@ -611,7 +611,7 @@ scroll {  0% {
 
 
 .getit_area{
-  background: #4C6726;
+  background: #fff;
 }
 
 .getit_area h1{
@@ -859,7 +859,7 @@ scroll {  0% {
 }
 
 .blog_section h1 span{
-  color: #4C6726;
+  color: #6EAD40;
 }
 
 .single_blog {
@@ -908,7 +908,7 @@ color: #282a2e;
 .slider-text {
   height: 100%;
   padding: 40px 40px 25px 40px;
-  background: #F5F6FA;
+  background: #6EAD40;
   color: #7a8188;
   -webkit-transition: all .5s ease-in-out;
   -moz-transition: all .5s ease-in-out;
